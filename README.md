@@ -17,8 +17,7 @@ The goals / steps of this project are the following:
 [image4]: ./output_images/warp_processing_check.jpg "Warp Example"
 [image5]: ./output_images/polynom_windows.jpg "Window Search Example"
 [image6]: ./output_images/assembled_img.jpg "Assembled Image"
-[video1]: ./project_clip_result.mp4 "Final Video"
-
+[image7]: ./output_images/video_thumbnail.jpg "Video Thumbnail"
 
 ## Camera Calibration
 
@@ -120,7 +119,7 @@ Finally drawing the lane onto the original image is done in `draw_line()` (ipynb
 
 ### Final Video
 
-![alt text][video1]
+[![Advanced Lane Lines][image7]](https://www.youtube.com/watch?v=e3tx_GHIX6M&feature=youtu.be "Advanced Lane Lines")
 
 ---
 
